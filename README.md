@@ -6,7 +6,7 @@ By Wenguan Wang, Jianbing Shen
 
 ========================================================================
 
-Our current implementation is based on the caffe version of Holistically-Nested Edge Detection (has been included in this repository, see `external/caffe`).
+Our current implementation is based on the caffe version of Holistically-Nested Edge Detection (has been included in this repository, see `external/caffe`). We also use some functions from fasterrcnn's caffe.
 But it can be easily implemented in standard caffe library. 
 
 We plan to re-implement it on Keras, but it depends on my schedule.
