@@ -1,4 +1,4 @@
-This repo contains a MATLAB re-implementation for 
+This repo contains a CAFFE re-implementation for 
 
 # "Deep Visual Attention Prediction", TIP18
 
