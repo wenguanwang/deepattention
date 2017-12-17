@@ -5,6 +5,7 @@ This repo contains a MATLAB re-implementation for
 By Wenguan Wang, Jianbing Shen
 
 ========================================================================
+
 Our current implementation is based on the caffe version of Holistically-Nested Edge Detection (has been included in this repository, see `external/caffe`).
 But it can be easily implemented in standard caffe library. 
 
@@ -23,6 +24,7 @@ and put the model 'attention_final' into 'models' folder.
 c. Run 'deep_attention_test' and the results can be found in 'datasets/results/'.
 
 ========================================================================
+
 If you find our method useful in your research, please consider citing:
 
     @article{wang2018deep,
@@ -33,4 +35,5 @@ If you find our method useful in your research, please consider citing:
     }
 
 ========================================================================
+
 Any comments, please email: wenguanwang.china@gmail.com
