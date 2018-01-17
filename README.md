@@ -24,6 +24,10 @@ and put the model 'attention_final' into 'models' folder.
 c. Run 'deep_attention_test' and the results can be found in 'datasets/results/'.
 
 ========================================================================
+The saliency results on MIT300, MIT1003, TORONTO, PASCAL-S and DUT datasets can be found at
+https://drive.google.com/file/d/1ana0Qv4nDvynDyXG3rCfOt4gEQ4CdiPP/view?usp=sharing
+
+========================================================================
 
 If you find our method useful in your research, please consider citing:
 
