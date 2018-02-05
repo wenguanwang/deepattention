@@ -13,7 +13,7 @@ We plan to re-implement it on Keras, but it depends on my schedule.
 
 a. Please first compile the 'Caffe' for matlab.
 
-b. Please download our model and results on DUT, MIT300, MIT1003, Pascal, and Toronto datasets from 
+b. Please download our MODEL and RESUTLS on DUT, MIT300, MIT1003, Pascal, and Toronto datasets from 
 
 google drive: https://drive.google.com/open?id=1cl3k3POMqS5obv0ffz84qOgGfAbEmtB3
 
@@ -22,14 +22,6 @@ or Baidu Wangpan: https://pan.baidu.com/s/1o8kQcAY password: wdwa
 and put the model 'attention_final' into 'models' folder.
 
 c. Run 'deep_attention_test' and the results can be found in 'datasets/results/'.
-
-========================================================================
-
-The saliency results on MIT300, MIT1003, TORONTO, PASCAL-S and DUT datasets can be found at
-
-https://drive.google.com/file/d/1ana0Qv4nDvynDyXG3rCfOt4gEQ4CdiPP/view?usp=sharing
-
-========================================================================
 
 If you find our method useful in your research, please consider citing:
 
