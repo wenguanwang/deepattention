@@ -34,4 +34,4 @@ If you find our method useful in your research, please consider citing:
 
 ========================================================================
 
-Any comments, please email: wenguanwang.china@gmail.com
+Any comments, please email: wenguanwang.ai@gmail.com
