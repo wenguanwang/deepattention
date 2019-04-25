@@ -2,7 +2,7 @@ This repo contains a CAFFE re-implementation for
 
 # "Deep Visual Attention Prediction", TIP18
 
-By Wenguan Wang, Jianbing Shen
+By [Wenguan Wang](https://sites.google.com/site/wenguanwangwwg/), Jianbing Shen
 
 ========================================================================
 
