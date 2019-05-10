@@ -1,6 +1,6 @@
 This repo contains a CAFFE re-implementation for 
 
-# "Deep Visual Attention Prediction", TIP18
+# ["Deep Visual Attention Prediction", TIP18](https://www.researchgate.net/publication/316779608_Deep_Visual_Attention_Prediction)
 
 By [Wenguan Wang](https://sites.google.com/view/wenguanwang), Jianbing Shen
 
